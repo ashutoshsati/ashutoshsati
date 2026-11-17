@@ -1,11 +1,10 @@
 ## 💫 About Me
 
-Hi, I'm **Ashutosh (Ash)**, a postgraduate student in **Master of Computing (Artificial Intelligence)** at **Curtin University**, Perth, Australia.
+Hi, I'm **Ashutosh (Ash) Sati**, a postgraduate student in **Master of Computing (Artificial Intelligence)** at **Curtin University**, Perth, Australia.
 
 I come from a mechanical engineering background and spent four years in operations and finance management before moving into AI and computer science. I enjoy building practical AI systems, from RAG applications and LLM agents to generative models.
 
-
-- 💼 Previously a Data Science associate at Drip Capital, working on developing and deploying machine learning models for anomaly detection and credit underwriting to predict default probability
+- 💼 Previously a Data Science Associate at Drip Capital, developing and deploying machine learning models for anomaly detection and credit underwriting, including default-probability prediction
 - 📍 Based in Perth, WA, and open to internships and graduate roles in AI and data science
 
 ## 🌐 Socials
@@ -33,13 +32,9 @@ I come from a mechanical engineering background and spent four years in operatio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashutoshsati&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ashutoshsati&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsati&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashutoshsati&show_icons=true&theme=github_dark)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ashutoshsati&theme=github_dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashutoshsati&layout=compact&theme=github_dark)
 
 ---
 
